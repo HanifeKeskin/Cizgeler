@@ -1,0 +1,12 @@
+C:\Users\Toshiba\Desktop\Çizgeler\Çizgeler\bin\Debug\Çizgeler.exe.config
+C:\Users\Toshiba\Desktop\Çizgeler\Çizgeler\bin\Debug\Çizgeler.exe
+C:\Users\Toshiba\Desktop\Çizgeler\Çizgeler\bin\Debug\Çizgeler.pdb
+C:\Users\Toshiba\Desktop\Çizgeler\Çizgeler\obj\Debug\Çizgeler.csprojAssemblyReference.cache
+C:\Users\Toshiba\Desktop\Çizgeler\Çizgeler\obj\Debug\Çizgeler.frmGraph.resources
+C:\Users\Toshiba\Desktop\Çizgeler\Çizgeler\obj\Debug\Çizgeler.frmCizgeCiz.resources
+C:\Users\Toshiba\Desktop\Çizgeler\Çizgeler\obj\Debug\Çizgeler.frmMinKapsayanAgac.resources
+C:\Users\Toshiba\Desktop\Çizgeler\Çizgeler\obj\Debug\Çizgeler.Properties.Resources.resources
+C:\Users\Toshiba\Desktop\Çizgeler\Çizgeler\obj\Debug\Çizgeler.csproj.GenerateResource.cache
+C:\Users\Toshiba\Desktop\Çizgeler\Çizgeler\obj\Debug\Çizgeler.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\Çizgeler\Çizgeler\obj\Debug\Çizgeler.exe
+C:\Users\Toshiba\Desktop\Çizgeler\Çizgeler\obj\Debug\Çizgeler.pdb
